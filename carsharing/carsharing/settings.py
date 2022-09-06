@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ti2*lx*)d(os9da9z$=p5*cvxr04+4--j=sxx%=n8wj1$q)9x8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://bodyawww.github.io/carsharing_testproject.github.io/']
 
 
 # Application definition
